@@ -23,7 +23,9 @@ Addison-Wesley, 2014, ch. 3, pp. 97-130.
 * The presentation slides provided
 
 Bài toán tìm cặp điểm gần nhất có thể được biểu diễn trong không gian $k$
-chiều, trong đó khoảng cách Euclid giữa hai điểm $p'(x'_1, ..., x'_k)$ và
-$p"(x"_1, ..., x"_k)$ được định nghĩa là :
-$$d(p', p") = \sqrt{\sum\limits_{s = 1}^k (x'_s - x"_s)^2}.$$
+chiều, trong đó khoảng cách Euclid giữa hai điểm $p^{\prime}(x^{\prime} _1, ..., x^{\prime} _k)$ và
+$p^{\prime\prime}(x^{\prime\prime}_1, ..., x^{\prime\prime}_k)$ được định nghĩa như sau :
+
+$$d(p^{\prime}, p^{\prime\prime}) = \sqrt{\sum\limits_{s = 1}^k (x^{\prime}_s - x^{\prime\prime}_s)^2}\;.$$
+
 Độ phức tạp thời gian của thuật toán Brute Force cho bài toán tìm cặp điểm gần nhất $k$ chiều là gì ?
