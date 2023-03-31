@@ -1,6 +1,6 @@
 # brute-force-group-15
-[![English](https://img.shields.io/badge/en-English-red.svg)](https://github.com/hnthap/brute-force-group-15/blob/master/README.md)
-[![Tiếng Việt](https://img.shields.io/badge/vi-Tiếng_Việt-blue.svg)](https://github.com/hnthap/brute-force-group-15/blob/master/README.vi.md)
+[![English](https://img.shields.io/badge/en-English-red.svg)](https://github.com/hnthap/brute-force-group-15/blob/main/README.md)
+[![Tiếng Việt](https://img.shields.io/badge/vi-Tiếng_Việt-blue.svg)](https://github.com/hnthap/brute-force-group-15/blob/main/README.vi.md)
 
 This is a project for the Algorithm Analysis and Design course. We are Group 
 15 and there are presentation slides and some material about Brute Force, the
@@ -19,13 +19,5 @@ class:
 design & analysis of algorithms</em>, 3rd ed. Boston, Massachusetts, U.S.: 
 Addison-Wesley, 2014, ch. 3, pp. 97-130.
 * https://www.geeksforgeeks.org/brute-force-approach-and-its-pros-and-cons/
-* https://www.youtube.com/watch?v=2WfOUBQYQgA
-* The presentation slides provided
-
-Bài toán tìm cặp điểm gần nhất có thể được biểu diễn trong không gian $k$
-chiều, trong đó khoảng cách Euclid giữa hai điểm $p^{\prime}(x^{\prime} _1, ..., x^{\prime} _k)$ và
-$p^{\prime\prime}(x^{\prime\prime}_1, ..., x^{\prime\prime}_k)$ được định nghĩa như sau :
-
-$$d(p^{\prime}, p^{\prime\prime}) = \sqrt{\sum\limits_{s = 1}^k (x^{\prime}_s - x^{\prime\prime}_s)^2}\;.$$
-
-Độ phức tạp thời gian của thuật toán Brute Force cho bài toán tìm cặp điểm gần nhất $k$ chiều là gì ?
+* https://www.youtube.com/watch?v=2WfOUBQYQgA (in Vietnamese)
+* The presentation slides provided (in Vietnamese)
